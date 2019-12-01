@@ -1,8 +1,14 @@
 # PayPalButtonAspNet
 This is a sample of how to set up the PayPal Button integration with ASP.NET WebForms
 
+The main guide from PayPal can be found here:
+https://developer.paypal.com/docs/checkout/integrate/#
 
-Also, as a reference, you might want to use this sample object to understand how PayPal is passing data. You can find the same for your transactions when debugging in Google Chrome (Console Section).
+The main documentation you should reference, can be found here:
+https://developer.paypal.com/docs/api/payments/v2/
+
+
+Also, as a reference, you might want to use this sample object to understand how PayPal is passing data. You can find the same for your transactions when debugging in Google Chrome (Console Section when pressing F12 key in your browser).
 
 1. create_time: "2019-11-17T23:47:30Z"
 2. id: "1AN0512580560C"
